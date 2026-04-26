@@ -1,8 +1,10 @@
 # Hi 👋, I'm Sandeep Kumar
 
-🎯 Aspiring Data Analyst & Full Stack (MERN) Developer  
-💻 Passionate about building real-world solutions using Data & Web Technologies  
-📊 Focused on Data Analytics, SQL, Python, and JavaScript  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Aspiring+Data+Analyst;MERN+Stack+Developer;SQL+%7C+Python+%7C+JavaScript;Building+Real+World+Projects)](https://git.io/typing-svg)
+
+![Visitor Count](https://komarev.com/ghpvc/?username=sandeepkuma123s&label=Profile%20Views&color=0e75b6&style=flat)
+
+![Hire Me](https://img.shields.io/badge/HIRE%20ME-OPEN%20FOR%20OPPORTUNITIES-success?style=for-the-badge&logo=github)
 
 ---
 
@@ -72,6 +74,17 @@ I am actively looking for internship opportunities to apply my skills and grow i
 ## 📈 Contribution Activity (Weekly / Monthly / Yearly)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandeepkuma123s&theme=react-dark)
+
+---
+
+## 💼 Hire Me
+
+🚀 I am open to:
+- Internships (Data Analyst / Full Stack Developer)
+- Freelance Projects
+- Entry-level Opportunities
+
+📩 Feel free to connect with me anytime!
 
 ---
 
