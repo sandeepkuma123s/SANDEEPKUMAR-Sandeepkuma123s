@@ -4,28 +4,37 @@
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sandeepkuma123s&label=Profile%20Views&color=0e75b6&style=flat)
 
-![Hire Me](https://img.shields.io/badge/HIRE%20ME-OPEN%20FOR%20OPPORTUNITIES-success?style=for-the-badge&logo=github)
+---
+
+## 📫 Hire Me / Contact
+
+📧 Email: ssandeepkumar31491@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/sandeep-kumar-sankaraguptam-4240a6353  
+
+🚀 Open for Internships | Freelance | Full Stack Roles
 
 ---
 
 ## 👨‍💻 About Me
 
-I am an aspiring Data Analyst and Full Stack Developer with a strong interest in solving real-world problems using data and web applications.  
+I am an aspiring Data Analyst and Full Stack Developer with a strong interest in building real-world applications using data and modern web technologies.  
 
-I enjoy working with SQL, Python, JavaScript, and modern BI tools to analyze data, build dashboards, and develop scalable web applications.  
+I enjoy working with SQL, Python, JavaScript, and MERN stack to create scalable and user-friendly applications.  
 
-Currently, I am improving my skills in Data Analytics and MERN Stack Development by building practical, industry-level projects.  
-
-I am actively looking for internship opportunities to apply my skills and grow in the tech industry.
+Currently, I am focused on improving my skills by building industry-level projects and preparing for internships in tech companies.
 
 ---
 
 ## 🚀 Projects
 
-🔹 Loan Prediction ML Model (Machine Learning)  
-🔹 E-commerce Data Analysis (SQL + Python)  
-🔹 Sales Dashboard (Power BI / Tableau Project)  
-🔹 Web Development Projects (React / Frontend Apps)
+🔹 **OnWay – Real-Time Ticket Booking System**  
+A smart travel booking platform with easy ticket booking and cancellation features for a smooth user experience.
+
+🔹 **Spotify Clone – Music Streaming App**  
+A music player web app inspired by Spotify with playlist features and responsive UI.
+
+🔹 **Personal Portfolio Website**  
+A fully responsive personal portfolio website showcasing my skills, projects, and achievements.
 
 ---
 
@@ -71,27 +80,9 @@ I am actively looking for internship opportunities to apply my skills and grow i
 
 ---
 
-## 📈 Contribution Activity (Weekly / Monthly / Yearly)
+## 📈 Contribution Activity
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sandeepkuma123s&theme=react-dark)
-
----
-
-## 💼 Hire Me
-
-🚀 I am open to:
-- Internships (Data Analyst / Full Stack Developer)
-- Freelance Projects
-- Entry-level Opportunities
-
-📩 Feel free to connect with me anytime!
-
----
-
-## 📫 Contact Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/sandeep-kumar-sankaraguptam-4240a6353  
-- 📧 Email: ssandeepkumar31491@gmail.com  
 
 ---
 
