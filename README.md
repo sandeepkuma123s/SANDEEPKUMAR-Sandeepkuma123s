@@ -1,6 +1,6 @@
 # Hi 👋, I'm Sandeep Kumar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Aspiring+Data+Analyst;MERN+Stack+Developer;SQL+%7C+Python+%7C+JavaScript;Building+Real+World+Projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Aspiring+Data+Analyst;FULL+Stack+Developer;SQL+%7C+Python+%7C+JavaScript;Building+Real+World+Projects)](https://git.io/typing-svg)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=sandeepkuma123s&label=Profile%20Views&color=0e75b6&style=flat)
 
